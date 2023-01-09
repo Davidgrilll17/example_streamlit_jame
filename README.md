@@ -1,4 +1,4 @@
-# Name of Streamlit App
+# eaxmple_streamlit_james
 
 Description of the app ...
 
